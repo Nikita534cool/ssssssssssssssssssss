@@ -16,16 +16,16 @@
       "shortcut": "Copilated\\Copilated\\Driving in Poland.exe",
       "shortcut-name": "Driving In Poland"
     },
-    "batchencryptor(pythonneeded)": {
-      "app-name": "Batch Encryptor (Python needed)",
+    "batchencryptor": {
+      "app-name": "Batch Encryptor",
       "app-download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/raw/refs/heads/main/sssssss.zip",
       "sha128": "",
       "category": "other",
       "shortcut": "batch_encryptor\\main.py",
       "shortcut-name": "Batch Encryptor"
     },
-    "guisdcard(pythonrequieredpipinstallflasktoo)": {
-      "app-name": "Gui Sdcard (python requiered pip install flask too)",
+    "guisdcard": {
+      "app-name": "Gui Sdcard",
       "app-download-link": "https://github.com/Nikita534cool/GuiSdcard/archive/refs/heads/main.zip",
       "sha128": "",
       "category": "programming",
