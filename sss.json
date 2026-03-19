@@ -31,6 +31,14 @@
       "category": "programming",
       "shortcut": "GuiSdcard-main\\app.py",
       "shortcut-name": "Gui sdcard"
+    },
+    "minesweeper": {
+      "app-name": "Minesweeper",
+      "app-download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/raw/refs/heads/main/ssssssssssssssss.zip",
+      "sha128": "",
+      "category": "games",
+      "shortcut": "minesweeper.exe",
+      "shortcut-name": "Minesweeper"
     }
   }
 }
