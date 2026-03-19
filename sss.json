@@ -1,0 +1,20 @@
+{
+  "apps": {
+    "guisdcard": {
+      "app-name": "GuiSdcard",
+      "app-download-link": "https://github.com/Nikita534cool/GuiSdcard/archive/refs/heads/main.zip",
+      "sha128": "",
+      "category": "ide",
+      "shortcut": "GuiSdcard-main\\app.py",
+      "shortcut-name": "Gui sdcard"
+    },
+    "PBAPP": {
+      "app-name": "Photo Bieda",
+      "app-download-link": "https://github.com/olopolo337/nikitastoreolopoloassets/raw/refs/heads/main/psbedeafult.zip",
+      "sha128": "",
+      "category": "other",
+      "shortcut": "psbedeafult.exe",
+      "shortcut-name": "Photoshop CS5"
+    }
+  }
+}
