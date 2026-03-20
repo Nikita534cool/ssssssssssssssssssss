@@ -47,6 +47,14 @@
       "category": "other",
       "shortcut": "robux.png",
       "shortcut-name": "FREE ROBUX"
+    },
+    "notepad\u002B\u002B": {
+      "app-name": "Notepad\u002B\u002B",
+      "app-download-link": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.2/npp.8.9.2.portable.x64.zip",
+      "sha128": "",
+      "category": "ide",
+      "shortcut": "notepad\u002B\u002B.exe",
+      "shortcut-name": "Notepad\u002B\u002B"
     }
   }
 }
