@@ -71,6 +71,14 @@
       "category": "games",
       "shortcut": "4K.exe",
       "shortcut-name": "Minecraft 4K"
+    },
+    "doom1version": {
+      "app-name": "Doom 1 version",
+      "app-download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/raw/refs/heads/main/ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss.zip",
+      "sha128": "",
+      "category": "games",
+      "shortcut": "chocolate-doom.exe",
+      "shortcut-name": "Doom - 1 version"
     }
   }
 }
