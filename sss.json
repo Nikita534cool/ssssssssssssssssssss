@@ -63,6 +63,14 @@
       "category": "decompiling",
       "shortcut": "AssetRipper.GUI.Free.exe",
       "shortcut-name": "AssetRipper"
+    },
+    "minecraft4k": {
+      "app-name": "Minecraft 4K",
+      "app-download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/raw/refs/heads/main/ssssssSsssssssssssssssssssssssssssssssss.zip",
+      "sha128": "",
+      "category": "games",
+      "shortcut": "4K.exe",
+      "shortcut-name": "Minecraft 4K"
     }
   }
 }
