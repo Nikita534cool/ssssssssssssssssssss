@@ -55,6 +55,14 @@
       "category": "ide",
       "shortcut": "notepad\u002B\u002B.exe",
       "shortcut-name": "Notepad\u002B\u002B"
+    },
+    "assetripper-unity": {
+      "app-name": "AssetRipper - Unity",
+      "app-download-link": "https://github.com/AssetRipper/AssetRipper/releases/download/1.3.12/AssetRipper_win_x64.zip",
+      "sha128": "",
+      "category": "decompiling",
+      "shortcut": "AssetRipper.GUI.Free.exe",
+      "shortcut-name": "AssetRipper"
     }
   }
 }
