@@ -5,88 +5,236 @@
       "app-download-link": "https://github.com/olopolo337/nikitastoreolopoloassets/raw/refs/heads/main/psbedeafult.zip",
       "sha128": "",
       "category": "other",
+      "description": null,
       "shortcut": "psbedeafult.exe",
-      "shortcut-name": "Photoshop CS5"
+      "shortcut-name": "Photoshop CS5",
+      "icon": null,
+      "version": "1.0.0",
+      "update-log": null,
+      "versions": [
+        {
+          "version": "1.0.0",
+          "download-link": "https://github.com/olopolo337/nikitastoreolopoloassets/raw/refs/heads/main/psbedeafult.zip",
+          "update-log": null
+        }
+      ],
+      "icon-url": null,
+      "icon-path": null
     },
     "drivinginpoland": {
       "app-name": "Driving In Poland",
       "app-download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/sss/ssss.zip",
       "sha128": "",
       "category": "games",
+      "description": null,
       "shortcut": "Copilated\\Copilated\\Driving in Poland.exe",
-      "shortcut-name": "Driving In Poland"
+      "shortcut-name": "Driving In Poland",
+      "icon": null,
+      "version": "1.0.0",
+      "update-log": null,
+      "versions": [
+        {
+          "version": "1.0.0",
+          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/sss/ssss.zip",
+          "update-log": null
+        }
+      ],
+      "icon-url": null,
+      "icon-path": null
     },
-      "drivinginpoland1.1": {
+    "drivinginpoland1.1": {
       "app-name": "Driving In Poland 1.1",
       "app-download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/sss/sssssssssssss.zip",
       "sha128": "",
       "category": "games",
+      "description": null,
       "shortcut": "Driving in Poland.exe",
-      "shortcut-name": "Driving In Poland"
+      "shortcut-name": "Driving In Poland",
+      "icon": null,
+      "version": "1.0.0",
+      "update-log": null,
+      "versions": [
+        {
+          "version": "1.0.0",
+          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/sss/sssssssssssss.zip",
+          "update-log": null
+        }
+      ],
+      "icon-url": null,
+      "icon-path": null
     },
     "batchencryptor": {
       "app-name": "Batch Encryptor",
       "app-download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/raw/refs/heads/main/sssssss.zip",
       "sha128": "",
       "category": "other",
+      "description": null,
       "shortcut": "batch_encryptor\\main.py",
-      "shortcut-name": "Batch Encryptor"
+      "shortcut-name": "Batch Encryptor",
+      "icon": null,
+      "version": "1.0.0",
+      "update-log": null,
+      "versions": [
+        {
+          "version": "1.0.0",
+          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/raw/refs/heads/main/sssssss.zip",
+          "update-log": null
+        }
+      ],
+      "icon-url": null,
+      "icon-path": null
     },
     "guisdcard": {
       "app-name": "Gui Sdcard",
       "app-download-link": "https://github.com/Nikita534cool/GuiSdcard/archive/refs/heads/main.zip",
       "sha128": "",
       "category": "programming",
+      "description": null,
       "shortcut": "GuiSdcard-main\\app.py",
-      "shortcut-name": "Gui sdcard"
+      "shortcut-name": "Gui sdcard",
+      "icon": null,
+      "version": "1.0.0",
+      "update-log": null,
+      "versions": [
+        {
+          "version": "1.0.0",
+          "download-link": "https://github.com/Nikita534cool/GuiSdcard/archive/refs/heads/main.zip",
+          "update-log": null
+        }
+      ],
+      "icon-url": null,
+      "icon-path": null
     },
     "minesweeper": {
       "app-name": "Minesweeper",
       "app-download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/raw/refs/heads/main/ssssssssssssssss.zip",
       "sha128": "",
       "category": "games",
+      "description": null,
       "shortcut": "minesweeper.exe",
-      "shortcut-name": "Minesweeper"
+      "shortcut-name": "Minesweeper",
+      "icon": null,
+      "version": "1.0.0",
+      "update-log": null,
+      "versions": [
+        {
+          "version": "1.0.0",
+          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/raw/refs/heads/main/ssssssssssssssss.zip",
+          "update-log": null
+        }
+      ],
+      "icon-url": null,
+      "icon-path": null
     },
     "freerobux": {
       "app-name": "Free Robux",
       "app-download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/raw/refs/heads/main/ssssssssssssssssssssssssss.zip",
       "sha128": "",
       "category": "other",
+      "description": null,
       "shortcut": "robux.png",
-      "shortcut-name": "FREE ROBUX"
+      "shortcut-name": "FREE ROBUX",
+      "icon": null,
+      "version": "1.0.0",
+      "update-log": null,
+      "versions": [
+        {
+          "version": "1.0.0",
+          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/raw/refs/heads/main/ssssssssssssssssssssssssss.zip",
+          "update-log": null
+        }
+      ],
+      "icon-url": null,
+      "icon-path": null
     },
     "notepad\u002B\u002B": {
       "app-name": "Notepad\u002B\u002B",
       "app-download-link": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.2/npp.8.9.2.portable.x64.zip",
       "sha128": "",
       "category": "ide",
+      "description": null,
       "shortcut": "notepad\u002B\u002B.exe",
-      "shortcut-name": "Notepad\u002B\u002B"
+      "shortcut-name": "Notepad\u002B\u002B",
+      "icon": null,
+      "version": "1.0.0",
+      "update-log": null,
+      "versions": [
+        {
+          "version": "1.0.0",
+          "download-link": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.2/npp.8.9.2.portable.x64.zip",
+          "update-log": null
+        }
+      ],
+      "icon-url": null,
+      "icon-path": null
     },
     "assetripper-unity": {
       "app-name": "AssetRipper - Unity",
       "app-download-link": "https://github.com/AssetRipper/AssetRipper/releases/download/1.3.12/AssetRipper_win_x64.zip",
       "sha128": "",
       "category": "decompiling",
+      "description": "AssetRipper is a tool for decompiling Unity engine games back into a source project format.\n\nIt extracts 3D models, textures, audio, and animations from compiled game files.\n\nThe software rebuilds original scenes and prefabs to show how game levels were constructed.\n\nIt also allows you to view C# scripts and the underlying game logic.\n\nThis is primarily used for modding, learning game design, or recovering lost project files across almost all Unity versions.",
       "shortcut": "AssetRipper.GUI.Free.exe",
-      "shortcut-name": "AssetRipper"
+      "shortcut-name": "AssetRipper",
+      "icon": "https://raw.githubusercontent.com/Nikita534cool/ssssssssssssssssssss/refs/heads/main/ssstore-icons/assetripper.png",
+      "version": "1.3.12",
+      "update-log": "No update log yet...",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "download-link": "https://github.com/AssetRipper/AssetRipper/releases/download/1.3.12/AssetRipper_win_x64.zip",
+          "update-log": null
+        },
+        {
+          "version": "1.3.12",
+          "download-link": "https://github.com/AssetRipper/AssetRipper/releases/download/1.3.12/AssetRipper_win_x64.zip",
+          "update-log": "No update log yet..."
+        }
+      ],
+      "icon-url": null,
+      "icon-path": null
     },
     "minecraft4k": {
       "app-name": "Minecraft 4K",
       "app-download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/raw/refs/heads/main/ssssssSsssssssssssssssssssssssssssssssss.zip",
       "sha128": "",
       "category": "games",
+      "description": null,
       "shortcut": "4K.exe",
-      "shortcut-name": "Minecraft 4K"
+      "shortcut-name": "Minecraft 4K",
+      "icon": null,
+      "version": "1.0.0",
+      "update-log": null,
+      "versions": [
+        {
+          "version": "1.0.0",
+          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/raw/refs/heads/main/ssssssSsssssssssssssssssssssssssssssssss.zip",
+          "update-log": null
+        }
+      ],
+      "icon-url": null,
+      "icon-path": null
     },
     "doom1version": {
       "app-name": "Doom 1 version",
       "app-download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/raw/refs/heads/main/ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss.zip",
       "sha128": "",
       "category": "games",
+      "description": null,
       "shortcut": "chocolate-doom.exe",
-      "shortcut-name": "Doom - 1 version"
+      "shortcut-name": "Doom - 1 version",
+      "icon": null,
+      "version": "1.0.0",
+      "update-log": null,
+      "versions": [
+        {
+          "version": "1.0.0",
+          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/raw/refs/heads/main/ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss.zip",
+          "update-log": null
+        }
+      ],
+      "icon-url": null,
+      "icon-path": null
     }
   }
 }
