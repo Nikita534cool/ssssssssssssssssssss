@@ -173,7 +173,7 @@
       "app-download-link": "https://github.com/AssetRipper/AssetRipper/releases/download/1.3.12/AssetRipper_win_x64.zip",
       "sha128": "",
       "category": "decompiling",
-      "description": "AssetRipper is a tool for decompiling Unity engine games back into a source project format.\n\nIt extracts 3D models, textures, audio, and animations from compiled game files.\n\nThe software rebuilds original scenes and prefabs to show how game levels were constructed.\n\nIt also allows you to view C# scripts and the underlying game logic.\n\nThis is primarily used for modding, learning game design, or recovering lost project files across almost all Unity versions.",
+      "description": "AssetRipper is a tool for decompiling Unity engine games back into a source project format.\n\nIt extracts 3D models, textures, audio, and animations from compiled game files.",
       "shortcut": "AssetRipper.GUI.Free.exe",
       "shortcut-name": "AssetRipper",
       "icon": "https://raw.githubusercontent.com/Nikita534cool/ssssssssssssssssssss/refs/heads/main/ssstore-icons/assetripper.png",
