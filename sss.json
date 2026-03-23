@@ -23,39 +23,23 @@
     },
     "drivinginpoland": {
       "app-name": "Driving In Poland",
-      "app-download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/sss/ssss.zip",
+      "app-download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/sss/sssssssssssss.zip",
       "sha128": "",
       "category": "games",
       "description": null,
       "shortcut": "Copilated\\Copilated\\Driving in Poland.exe",
       "shortcut-name": "Driving In Poland",
       "icon": null,
-      "version": "1.0.0",
-      "update-log": null,
+      "version": "1.0.1",
+      "update-log": "Added new level.",
       "versions": [
         {
           "version": "1.0.0",
           "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/sss/ssss.zip",
           "update-log": null
-        }
-      ],
-      "icon-url": null,
-      "icon-path": null
-    },
-    "drivinginpoland1.1": {
-      "app-name": "Driving In Poland 1.1",
-      "app-download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/sss/sssssssssssss.zip",
-      "sha128": "",
-      "category": "games",
-      "description": null,
-      "shortcut": "Driving in Poland.exe",
-      "shortcut-name": "Driving In Poland",
-      "icon": null,
-      "version": "1.0.0",
-      "update-log": null,
-      "versions": [
+        },
         {
-          "version": "1.0.0",
+          "version": "1.0.1",
           "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/sss/sssssssssssss.zip",
           "update-log": null
         }
