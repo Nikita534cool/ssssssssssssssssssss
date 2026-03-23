@@ -181,11 +181,6 @@
       "update-log": "No update log yet...",
       "versions": [
         {
-          "version": "1.0.0",
-          "download-link": "https://github.com/AssetRipper/AssetRipper/releases/download/1.3.12/AssetRipper_win_x64.zip",
-          "update-log": null
-        },
-        {
           "version": "1.3.12",
           "download-link": "https://github.com/AssetRipper/AssetRipper/releases/download/1.3.12/AssetRipper_win_x64.zip",
           "update-log": "No update log yet..."
