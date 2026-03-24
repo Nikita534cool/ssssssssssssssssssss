@@ -1,14 +1,14 @@
 {
   "apps": {
-    "PBAPP": {
+    "photobieda": {
       "app-name": "Photo Bieda",
       "app-download-link": "https://github.com/olopolo337/nikitastoreolopoloassets/raw/refs/heads/main/psbedeafult.zip",
       "sha128": "",
       "category": "other",
-      "description": null,
+      "description": "\u0022It\u0027s not Photoshop, but it\u0027s honest work.\u0022",
       "shortcut": "psbedeafult.exe",
       "shortcut-name": "Photoshop CS5",
-      "icon": null,
+      "icon": "https://5.imimg.com/data5/SELLER/Default/2023/4/300118257/PL/EW/QC/101706302/adobe-photoshop-cs5.png",
       "version": "1.0.0",
       "update-log": null,
       "versions": [
@@ -29,7 +29,7 @@
       "description": null,
       "shortcut": "Copilated\\Copilated\\Driving in Poland.exe",
       "shortcut-name": "Driving In Poland",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Nikita534cool/ssssssssssssssssssss/refs/heads/main/ssstore-icons/drivinginpoland.png",
       "version": "1.0.1",
       "update-log": "Added new level.",
       "versions": [
@@ -41,7 +41,7 @@
         {
           "version": "1.0.1",
           "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/sss/sssssssssssss.zip",
-          "update-log": null
+          "update-log": "Added new level."
         }
       ],
       "icon-url": null,
@@ -52,10 +52,10 @@
       "app-download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/raw/refs/heads/main/sssssss.zip",
       "sha128": "",
       "category": "other",
-      "description": null,
+      "description": "Batch Encryptor encode\u0027s your batches to be unreadable,\r\ntho still decodable",
       "shortcut": "batch_encryptor\\main.py",
       "shortcut-name": "Batch Encryptor",
-      "icon": null,
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh21vJSwK_PLOasiLPozmUQGWBROQqchg_fQ\u0026s",
       "version": "1.0.0",
       "update-log": null,
       "versions": [
@@ -73,10 +73,10 @@
       "app-download-link": "https://github.com/Nikita534cool/GuiSdcard/archive/refs/heads/main.zip",
       "sha128": "",
       "category": "programming",
-      "description": null,
+      "description": "In python,requiers python,flask\r\nhttps://github.com/nikita534cool/GuiSdcard",
       "shortcut": "GuiSdcard-main\\app.py",
       "shortcut-name": "Gui sdcard",
-      "icon": null,
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png",
       "version": "1.0.0",
       "update-log": null,
       "versions": [
@@ -94,10 +94,10 @@
       "app-download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/raw/refs/heads/main/ssssssssssssssss.zip",
       "sha128": "",
       "category": "games",
-      "description": null,
+      "description": "Minesweeper is a classic single-player logic puzzle game where the objective is to clear a rectangular grid of hidden \u0022mines\u0022 or bombs without detonating any of them",
       "shortcut": "minesweeper.exe",
       "shortcut-name": "Minesweeper",
-      "icon": null,
+      "icon": "https://static.wikia.nocookie.net/logopedia/images/9/97/Microsoft_Minesweeper_%282001%29.svg/revision/latest/scale-to-width-down/200?cb=20250629061806",
       "version": "1.0.0",
       "update-log": null,
       "versions": [
@@ -115,10 +115,10 @@
       "app-download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/raw/refs/heads/main/ssssssssssssssssssssssssss.zip",
       "sha128": "",
       "category": "other",
-      "description": null,
+      "description": "FREE ROBUX INSTALL FREE NO VIRUS 2026",
       "shortcut": "robux.png",
       "shortcut-name": "FREE ROBUX",
-      "icon": null,
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Robux_2019_Logo_gold.svg/960px-Robux_2019_Logo_gold.svg.png",
       "version": "1.0.0",
       "update-log": null,
       "versions": [
@@ -139,12 +139,17 @@
       "description": null,
       "shortcut": "notepad\u002B\u002B.exe",
       "shortcut-name": "Notepad\u002B\u002B",
-      "icon": null,
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png",
       "version": "1.0.0",
       "update-log": null,
       "versions": [
         {
           "version": "1.0.0",
+          "download-link": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.2/npp.8.9.2.portable.x64.zip",
+          "update-log": null
+        },
+        {
+          "version": "8.9.3",
           "download-link": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.2/npp.8.9.2.portable.x64.zip",
           "update-log": null
         }
@@ -178,10 +183,10 @@
       "app-download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/raw/refs/heads/main/ssssssSsssssssssssssssssssssssssssssssss.zip",
       "sha128": "",
       "category": "games",
-      "description": null,
+      "description": "Minecraft but its in 4 kilobytes!",
       "shortcut": "4K.exe",
       "shortcut-name": "Minecraft 4K",
-      "icon": null,
+      "icon": "https://thumbs.dreamstime.com/b/minecraft-logo-online-game-dirt-block-illustrations-concept-design-isolated-186775550.jpg",
       "version": "1.0.0",
       "update-log": null,
       "versions": [
@@ -189,20 +194,25 @@
           "version": "1.0.0",
           "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/raw/refs/heads/main/ssssssSsssssssssssssssssssssssssssssssss.zip",
           "update-log": null
+        },
+        {
+          "version": "1.6.7",
+          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/raw/refs/heads/main/ssssssSsssssssssssssssssssssssssssssssss.zip",
+          "update-log": null
         }
       ],
       "icon-url": null,
       "icon-path": null
     },
-    "doom1version": {
-      "app-name": "Doom 1 version",
+    "doom": {
+      "app-name": "Doom",
       "app-download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/raw/refs/heads/main/ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss.zip",
       "sha128": "",
       "category": "games",
-      "description": null,
+      "description": "Doom is a 1993 first-person shooter game developed and published by id Software for MS-DOS. It is the first installment in the Doom franchise.",
       "shortcut": "chocolate-doom.exe",
-      "shortcut-name": "Doom - 1 version",
-      "icon": null,
+      "shortcut-name": "Doom",
+      "icon": "https://p1.hiclipart.com/preview/995/208/43/doom-custom-icon-doom-png-clipart-thumbnail.jpg",
       "version": "1.0.0",
       "update-log": null,
       "versions": [
