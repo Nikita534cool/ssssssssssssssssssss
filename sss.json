@@ -224,6 +224,27 @@
       ],
       "icon-url": null,
       "icon-path": null
+    },
+    "mikistore": {
+      "app-name": "Miki Store",
+      "app-download-link": "placeholder.com",
+      "sha128": "",
+      "category": "other",
+      "description": "Miki Store - second best store in the world\r\nhas a lot of gud apps install now",
+      "shortcut": "placeholder",
+      "shortcut-name": "placeholder",
+      "icon": "https://www.nomadfoods.com/wp-content/uploads/2018/08/placeholder-1-e1533569576673.png",
+      "version": "INDEV-PlaceHolder",
+      "update-log": "place-holder",
+      "versions": [
+        {
+          "version": "INDEV-PlaceHolder",
+          "download-link": "placeholder.com",
+          "update-log": "place-holder"
+        }
+      ],
+      "icon-url": null,
+      "icon-path": null
     }
   }
 }
