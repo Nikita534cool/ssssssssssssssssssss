@@ -227,20 +227,35 @@
     },
     "mikistore": {
       "app-name": "Miki Store",
-      "app-download-link": "placeholder.com",
+      "app-download-link": "https://cdn.discordapp.com/attachments/1469718108267745350/1486064368792768694/MikiStoreDemo4.zip?ex=69c424cb\u0026is=69c2d34b\u0026hm=14a23b79275ae5453201d1baf655e6b4fea961b2ca109eee74211e5a3e06fbb1\u0026",
       "sha128": "",
       "category": "other",
       "description": "Miki Store - second best store in the world\r\nhas a lot of gud apps install now",
-      "shortcut": "placeholder",
+      "shortcut": "MikiStore.exe",
       "shortcut-name": "placeholder",
       "icon": "https://www.nomadfoods.com/wp-content/uploads/2018/08/placeholder-1-e1533569576673.png",
-      "version": "INDEV-PlaceHolder",
-      "update-log": "place-holder",
+      "version": "Beta-1.04",
+      "update-log": "Latest",
       "versions": [
         {
-          "version": "INDEV-PlaceHolder",
-          "download-link": "placeholder.com",
-          "update-log": "place-holder"
+          "version": "INDEV-1.03",
+          "download-link": "https://cdn.discordapp.com/attachments/1469718108267745350/1485346189779013712/MikiStoreDemo3.zip?ex=69c38230\u0026is=69c230b0\u0026hm=25d292b821be5f78d3c6ea6da531b25193a380b0e42e57be59445f1ef8a41bff\u0026",
+          "update-log": "idk"
+        },
+        {
+          "version": "INDEV-1.02",
+          "download-link": "https://cdn.discordapp.com/attachments/1469718108267745350/1485221852874932234/MikiStoreDemo2.zip?ex=69c3b723\u0026is=69c265a3\u0026hm=d10117760684f2c3fa10ebfad5861b54d764bc865dafd81ebd275c67aa757ca9\u0026",
+          "update-log": "idk"
+        },
+        {
+          "version": "INDEV-1.00",
+          "download-link": "https://cdn.discordapp.com/attachments/1469718108267745350/1484966196842598491/MikiStoreDemo.zip?ex=69c41a8a\u0026is=69c2c90a\u0026hm=72a56f2bcb0defcef3844161dddb68bfad9e560a62dd11a60a48cd964255dd26\u0026",
+          "update-log": "idk"
+        },
+        {
+          "version": "Beta-1.04",
+          "download-link": "https://cdn.discordapp.com/attachments/1469718108267745350/1486064368792768694/MikiStoreDemo4.zip?ex=69c424cb\u0026is=69c2d34b\u0026hm=14a23b79275ae5453201d1baf655e6b4fea961b2ca109eee74211e5a3e06fbb1\u0026",
+          "update-log": "Latest"
         }
       ],
       "icon-url": null,
