@@ -235,37 +235,37 @@
       "shortcut-name": "Miki Store",
       "icon": "https://cdn.discordapp.com/attachments/1469718108267745350/1486754447655702628/costume1.png?ex=69c7f8fa\u0026is=69c6a77a\u0026hm=08bcf469efd4d612b29ec2d6c9744e9624df92103e2775658a9d847784b0a718\u0026",
       "version": "Beta-1.06",
-      "update-log": "\u0022added icon\u0022 - Miki (the solo dev)",
+      "update-log": null,
       "versions": [
         {
           "version": "INDEV-1.03",
-          "download-link": "https://cdn.discordapp.com/attachments/1469718108267745350/1485346189779013712/MikiStoreDemo3.zip?ex=69c4d3b0\u0026is=69c38230\u0026hm=b14923688d20b92740feb9cbdeb8cd4291a2523edc1c048223d494f2b8d8733a\u0026",
-          "update-log": "idk"
+          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/diskwaste/MikiStoreDemo3.zip",
+          "update-log": "Miki stopped the support for \u003CBeta-1.05 use 1.05 or newer beacuse dosent work on old versions"
         },
         {
           "version": "INDEV-1.02",
-          "download-link": "https://cdn.discordapp.com/attachments/1469718108267745350/1485221852874932234/MikiStoreDemo2.zip?ex=69c3b723\u0026is=69c265a3\u0026hm=d10117760684f2c3fa10ebfad5861b54d764bc865dafd81ebd275c67aa757ca9\u0026",
-          "update-log": "idk"
+          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/diskwaste/MikiStoreDemo2.zip",
+          "update-log": "Miki stopped the support for \u003CBeta-1.05 use 1.05 or newer beacuse dosent work on old versions"
         },
         {
           "version": "INDEV-1.00",
-          "download-link": "https://cdn.discordapp.com/attachments/1469718108267745350/1484966196842598491/MikiStoreDemo.zip?ex=69c41a8a\u0026is=69c2c90a\u0026hm=72a56f2bcb0defcef3844161dddb68bfad9e560a62dd11a60a48cd964255dd26\u0026",
-          "update-log": "idk"
+          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/diskwaste/MikiStoreDemo.zip",
+          "update-log": "Miki stopped the support for \u003CBeta-1.05 use 1.05 or newer beacuse dosent work on old versions"
         },
         {
           "version": "Beta-1.06",
           "download-link": "https://cdn.discordapp.com/attachments/1472262551160230045/1486784825770774690/MikiStoreDemo6.zip?ex=69c6c3c5\u0026is=69c57245\u0026hm=1ae5adca3887724243e150699de6162d56fe59de2b81249badc82d7e2cefd8f7\u0026",
-          "update-log": "\u0022added icon\u0022 - Miki (the solo dev)"
+          "update-log": null
         },
         {
           "version": "Beta-1.05",
-          "download-link": "https://cdn.discordapp.com/attachments/1469718108267745350/1486738226248028170/MikiStoreDemo5.zip?ex=69c7e9df\u0026is=69c6985f\u0026hm=fbeeb64452e5c9a109356cf153e21b4e6da940fc9b4828affeadc204a986422a\u0026",
+          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/diskwaste/MikiStoreDemo5.zip",
           "update-log": "new version, what was added? Removed pre-demo5 server support, added gif support and a ProgressRing when the icon is downloading."
         },
         {
           "version": "Beta-1.04",
-          "download-link": "https://cdn.discordapp.com/attachments/1469718108267745350/1486064368792768694/MikiStoreDemo4.zip?ex=69c424cb\u0026is=69c2d34b\u0026hm=14a23b79275ae5453201d1baf655e6b4fea961b2ca109eee74211e5a3e06fbb1\u0026",
-          "update-log": "Latest"
+          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/diskwaste/MikiStoreDemo4.zip",
+          "update-log": "Miki stopped the support for \u003CBeta-1.05 use 1.05 or newer beacuse dosent work on old versions"
         }
       ],
       "icon-url": null,
