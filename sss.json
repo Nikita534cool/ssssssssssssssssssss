@@ -240,17 +240,17 @@
         {
           "version": "INDEV-1.03",
           "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/diskwaste/MikiStoreDemo3.zip",
-          "update-log": "Miki stopped the support for \u003CBeta-1.05 use 1.05 or newer beacuse dosent work on old versions"
+          "update-log": "Miki stopped the support for \u003CBeta-1.05 use 1.05 or newer/ALIVE versions"
         },
         {
           "version": "INDEV-1.02",
           "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/diskwaste/MikiStoreDemo2.zip",
-          "update-log": "Miki stopped the support for \u003CBeta-1.05 use 1.05 or newer beacuse dosent work on old versions"
+          "update-log": "Miki stopped the support for \u003CBeta-1.05 use 1.05 or newer/ALIVE versions"
         },
         {
           "version": "INDEV-1.00",
           "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/diskwaste/MikiStoreDemo.zip",
-          "update-log": "Miki stopped the support for \u003CBeta-1.05 use 1.05 or newer beacuse dosent work on old versions"
+          "update-log": "Miki stopped the support for \u003CBeta-1.05 use 1.05 or newer/ALIVE versions"
         },
         {
           "version": "Beta-1.06",
@@ -265,8 +265,28 @@
         {
           "version": "Beta-1.04",
           "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/diskwaste/MikiStoreDemo4.zip",
-          "update-log": "Miki stopped the support for \u003CBeta-1.05 use 1.05 or newer beacuse dosent work on old versions"
-        }
+          "update-log": "Miki stopped the support for \u003CBeta-1.05 use 1.05 or newer/ALIVE versions"
+        },
+        {
+          "version": "Beta-1.04",
+          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/diskwaste/MikiStoreDemo-ALIVE.zip",
+          "update-log": "Miki stopped the support for old version's BUT i made them work, download now"
+        },
+        {
+          "version": "Beta-1.04",
+          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/diskwaste/MikiStoreDemo2-ALIVE.zip",
+          "update-log": "Miki stopped the support for old version's BUT i made them work, download now"
+        },
+         {
+          "version": "Beta-1.04",
+          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/diskwaste/MikiStoreDemo3-ALIVE.zip",
+          "update-log": "Miki stopped the support for old version's BUT i made them work, download now"
+        },
+        {
+          "version": "Beta-1.04",
+          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/diskwaste/MikiStoreDemo4-ALIVE.zip",
+          "update-log": "Miki stopped the support for old version's BUT i made them work, download now"
+        },
       ],
       "icon-url": null,
       "icon-path": null
