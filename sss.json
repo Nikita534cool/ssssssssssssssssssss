@@ -263,30 +263,30 @@
           "update-log": "new version, what was added? Removed pre-demo5 server support, added gif support and a ProgressRing when the icon is downloading."
         },
         {
-          "version": "Beta-1.04",
+          "version": "Beta-1.04-Alive",
           "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/diskwaste/MikiStoreDemo4.zip",
           "update-log": "Miki stopped the support for \u003CBeta-1.05 use 1.05 or newer/ALIVE versions"
         },
         {
-          "version": "Beta-1.04",
+          "version": "Beta-1.04-Alive",
           "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/diskwaste/MikiStoreDemo-ALIVE.zip",
           "update-log": "Miki stopped the support for old version's BUT i made them work, download now"
         },
         {
-          "version": "Beta-1.04",
+          "version": "Beta-1.04-Alive",
           "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/diskwaste/MikiStoreDemo2-ALIVE.zip",
           "update-log": "Miki stopped the support for old version's BUT i made them work, download now"
         },
          {
-          "version": "Beta-1.04",
+          "version": "Beta-1.04-Alive",
           "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/diskwaste/MikiStoreDemo3-ALIVE.zip",
           "update-log": "Miki stopped the support for old version's BUT i made them work, download now"
         },
         {
-          "version": "Beta-1.04",
+          "version": "Beta-1.04-Alive",
           "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/diskwaste/MikiStoreDemo4-ALIVE.zip",
           "update-log": "Miki stopped the support for old version's BUT i made them work, download now"
-        },
+        }
       ],
       "icon-url": null,
       "icon-path": null
