@@ -225,25 +225,26 @@
       "icon-url": null,
       "icon-path": null
     },
-  "mikistore": {
-    "app-name": "Miki Store",
-    "app-download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/raw/refs/heads/main/mikistore/ZZZZZZZZ.zip",
-    "sha128": "",
-    "category": "store",
-    "description": "Fuck mikistore",
-    "shortcut": "MikiStoreUpdater.exe",
-    "shortcut-name": "MikiStore",
-    "icon": "https://link-to-your-icon.png",
-    "version": "1.0.0",
-    "update-log": "walle konia",
-    "versions": [
-      {
-        "version": "1.0.0",
-        "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/raw/refs/heads/main/mikistore/ZZZZZZZZ.zip",
-        "update-log": null
+    "mikistore": {
+      "app-name": "Miki Store",
+      "app-download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/raw/refs/heads/main/mikistore/ZZZZZZZZ.zip",
+      "sha128": "",
+      "category": "store",
+      "description": "Fuck mikistore",
+      "shortcut": "MikiStoreUpdater.exe",
+      "shortcut-name": "MikiStore",
+      "icon": "https://link-to-your-icon.png",
+      "version": "1.0.0",
+      "update-log": "walle konia",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/raw/refs/heads/main/mikistore/ZZZZZZZZ.zip",
+          "update-log": null
+        }
+      ],
+      "icon-url": null,
+      "icon-path": null
       }
-    ],
-    "icon-url": null,
-    "icon-path": null
   }
 }
