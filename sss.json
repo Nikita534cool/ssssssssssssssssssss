@@ -225,67 +225,22 @@
       "icon-url": null,
       "icon-path": null
     },
-    "mikistore": {
-      "app-name": "Miki Store",
-      "app-download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/diskwaste/MikiStoreDemo6.zip",
+    "mikistoreupdater": {
+      "app-name": "Miki Store Updater",
+      "app-download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/raw/refs/heads/main/mikistore/ZZZZZZZZ.zip",
       "sha128": "",
-      "category": "other",
-      "description": "Miki Store - second best store in the world\r\nhas a lot of gud apps install now,in development",
-      "shortcut": "MikiStore.exe",
-      "shortcut-name": "Miki Store",
+      "category": "store",
+      "description": "Miki Store - second best store in the world",
+      "shortcut": "MikiStoreUpdater.exe",
+      "shortcut-name": "Miki Store Updater",
       "icon": "https://raw.githubusercontent.com/Nikita534cool/ssssssssssssssssssss/main/ssstore-icons/diskwastecostume1.png",
-      "version": "Beta-1.06",
-      "update-log": null,
+      "version": "1.0.0",
+      "update-log": "Miki Store Updater added\r\nRemoved normal miki store",
       "versions": [
         {
-          "version": "INDEV-1.03",
-          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/diskwaste/MikiStoreDemo3.zip",
-          "update-log": "Miki stopped the support for \u003CBeta-1.05 use 1.05 or newer/ALIVE versions"
-        },
-        {
-          "version": "INDEV-1.02",
-          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/diskwaste/MikiStoreDemo2.zip",
-          "update-log": "Miki stopped the support for \u003CBeta-1.05 use 1.05 or newer/ALIVE versions"
-        },
-        {
-          "version": "INDEV-1.00",
-          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/diskwaste/MikiStoreDemo.zip",
-          "update-log": "Miki stopped the support for \u003CBeta-1.05 use 1.05 or newer/ALIVE versions"
-        },
-        {
-          "version": "Beta-1.06",
-          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/diskwaste/MikiStoreDemo6.zip",
-          "update-log": "check Beta-1.05 update log."
-        },
-        {
-          "version": "Beta-1.05",
-          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/diskwaste/MikiStoreDemo5.zip",
-          "update-log": "new version, what was added? Removed pre-demo5 server support, added gif support and a ProgressRing when the icon is downloading."
-        },
-        {
-          "version": "Beta-1.04",
-          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/diskwaste/MikiStoreDemo4.zip",
-          "update-log": "Miki stopped the support for \u003CBeta-1.05 use 1.05 or newer/ALIVE versions"
-        },
-        {
-          "version": "Beta-1.01-Alive",
-          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/diskwaste/MikiStoreDemo-ALIVE.zip",
-          "update-log": "Miki stopped the support for old version's BUT i made them work, download now"
-        },
-        {
-          "version": "Beta-1.02-Alive",
-          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/diskwaste/MikiStoreDemo2-ALIVE.zip",
-          "update-log": "Miki stopped the support for old version's BUT i made them work, download now"
-        },
-         {
-          "version": "Beta-1.03-Alive",
-          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/diskwaste/MikiStoreDemo3-ALIVE.zip",
-          "update-log": "Miki stopped the support for old version's BUT i made them work, download now"
-        },
-        {
-          "version": "Beta-1.04-Alive",
-          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/diskwaste/MikiStoreDemo4-ALIVE.zip",
-          "update-log": "Miki stopped the support for old version's BUT i made them work, download now"
+          "version": "1.0.0",
+          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/raw/refs/heads/main/mikistore/ZZZZZZZZ.zip",
+          "update-log": "Miki Store Updater added\r\nRemoved normal miki store"
         }
       ],
       "icon-url": null,
