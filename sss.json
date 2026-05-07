@@ -232,7 +232,7 @@
       "category": "store",
       "description": "Miki Store - second best store in the world",
       "shortcut": "MikiStoreUpdater.exe",
-      "shortcut-name": "Miki Store Updater",
+      "shortcut-name": "MikiStoreUpdater.exe",
       "icon": "https://raw.githubusercontent.com/Nikita534cool/ssssssssssssssssssss/main/ssstore-icons/diskwastecostume1.png",
       "version": "1.0.0",
       "update-log": "Miki Store Updater added\r\nRemoved normal miki store",
