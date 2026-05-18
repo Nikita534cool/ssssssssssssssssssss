@@ -227,19 +227,19 @@
     },
     "mikistore": {
       "app-name": "Miki Store",
-      "app-download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/raw/refs/heads/main/mikistore/ZZZZZZZZ.zip",
+      "app-download-link": "https://raw.githubusercontent.com/Nikita534cool/ssssssssssssssssssss/refs/heads/main/mikistore/ZZZZZZZZ.zip",
       "sha128": "",
       "category": "store",
-      "description": "Fuck mikistore",
+      "description": "i hate mikistore",
       "shortcut": "MikiStoreUpdater.exe",
       "shortcut-name": "MikiStore",
-      "icon": "https://link-to-your-icon.png",
+      "icon": "https://raw.githubusercontent.com/Nikita534cool/ssssssssssssssssssss/refs/heads/main/ssstore-icons/mikigoonstore.png",
       "version": "1.0.0",
-      "update-log": "walle konia",
+      "update-log": "i hate this store",
       "versions": [
         {
           "version": "1.0.0",
-          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/raw/refs/heads/main/mikistore/ZZZZZZZZ.zip",
+          "download-link": "https://raw.githubusercontent.com/Nikita534cool/ssssssssssssssssssss/refs/heads/main/mikistore/ZZZZZZZZ.zip",
           "update-log": null
         }
       ],
