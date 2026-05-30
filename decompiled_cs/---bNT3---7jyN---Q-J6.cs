@@ -1,0 +1,8 @@
+using System;
+using System.Runtime.CompilerServices;
+
+[CompilerGenerated]
+[_0027_003D_003FbNT3_0023_003B_00297jyN_0027_0025_002AQ_007DJ6_0060_0024m_0040]
+internal sealed class _0027_003D_003FbNT3_0023_003B_00297jyN_0027_0025_002AQ_007DJ6_0060_0024m_0040 : Attribute
+{
+}
