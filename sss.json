@@ -271,6 +271,37 @@
       ],
       "icon-url": null,
       "icon-path": null
+    },
+    "winanim": {
+      "app-name": "WinAnim",
+      "app-download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/raw/refs/heads/main/mikistore/WinAnim-main.zip",
+      "sha128": "",
+      "category": "other",
+      "description": "WinAnim is a Windows boot simulator. It is built with C# and includes the .NET 5.0 runtime to ensure compatibility across various Windows environments.",
+      "shortcut": "WinAnim.exe",
+      "shortcut-name": "WinAnim",
+      "icon": "https://github.com/Mikigamer888/WinAnim/raw/refs/heads/main/WinFormsApp1/winanimico.ico",
+      "version": "Release",
+      "update-log": "Loading...",
+      "versions": [
+        {
+          "version": "SOURCE-CODE",
+          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/raw/refs/heads/main/mikistore/WinAnim-main.zip",
+          "update-log": "DONT DOWNLOAD IF U STUPID"
+        },
+        {
+          "version": "Release",
+          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/sss/WinAnim.zip",
+          "update-log": "Loading..."
+        },
+        {
+          "version": "Release",
+          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/raw/refs/heads/main/mikistore/WinAnim-main.zip",
+          "update-log": "Loading..."
+        }
+      ],
+      "icon-url": null,
+      "icon-path": null
     }
   }
 }
