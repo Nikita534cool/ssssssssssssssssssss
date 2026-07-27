@@ -23,25 +23,30 @@
     },
     "drivinginpoland": {
       "app-name": "Driving In Poland",
-      "app-download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/sss/sssssssssssss.zip",
+      "app-download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/sss/Driving.in.Poland_Data.zip",
       "sha128": "",
       "category": "games",
       "description": "Najlepiej sprzedaj\u0105ca si\u0119 gra wakacji 2023 W Polsce. Prowad\u017A Samoch\u00F3d PO POLSCE!\r\nTO JEST DEMO",
       "shortcut": "Copilated\\Copilated\\Driving in Poland.exe",
       "shortcut-name": "Driving In Poland",
       "icon": "https://raw.githubusercontent.com/Nikita534cool/ssssssssssssssssssss/refs/heads/main/ssstore-icons/drivinginpoland.png",
-      "version": "1.0.1",
-      "update-log": "Added new level.",
+      "version": "1.2.74",
+      "update-log": "New stuff, see it yourself",
       "versions": [
         {
-          "version": "1.0.0",
-          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/sss/ssss.zip",
-          "update-log": null
+          "version": "1.2.74",
+          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/sss/Driving.in.Poland_Data.zip",
+          "update-log": "New stuff, see it yourself"
         },
         {
           "version": "1.0.1",
           "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/sss/sssssssssssss.zip",
           "update-log": "Added new level."
+        },
+        {
+          "version": "1.0.0",
+          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/releases/download/sss/ssss.zip",
+          "update-log": null
         }
       ],
       "icon-url": null,
@@ -250,7 +255,7 @@
       "app-name": "Xeno",
       "app-download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/raw/refs/heads/main/mikistore/Xeno-v1.3.55.zip",
       "sha128": "",
-      "category": "ide",
+      "category": "games",
       "description": "Roblox ide for scripting bascially executor",
       "shortcut": "Xeno-v1.3.55\\Xeno-v1.3.55\\Xeno.exe",
       "shortcut-name": "Xeno-v1.3.55",
