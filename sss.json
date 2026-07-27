@@ -245,6 +245,27 @@
       ],
       "icon-url": null,
       "icon-path": null
+    },
+    "xeno": {
+      "app-name": "Xeno",
+      "app-download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/raw/refs/heads/main/mikistore/Xeno-v1.3.55.zip",
+      "sha128": "",
+      "category": "games",
+      "description": "Roblox ide for scripting bascially executor",
+      "shortcut": "Xeno-v1.3.55\\Xeno-v1.3.55\\Xeno.exe",
+      "shortcut-name": "Xeno-v1.3.55",
+      "icon": "https://www.xeno.now/images/xeno.png",
+      "version": "Xeno-v1.3.55",
+      "update-log": null,
+      "versions": [
+        {
+          "version": "Xeno-v1.3.55",
+          "download-link": "https://github.com/Nikita534cool/ssssssssssssssssssss/raw/refs/heads/main/mikistore/Xeno-v1.3.55.zip",
+          "update-log": null
+        }
+      ],
+      "icon-url": null,
+      "icon-path": null
     }
   }
 }
