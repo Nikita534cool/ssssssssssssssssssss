@@ -236,7 +236,7 @@
       "sha128": "",
       "category": "games",
       "description": "i hate mikistore",
-      "shortcut": "Miki Store\\MikiStoreUpdater.exe",
+      "shortcut": "MikiStoreUpdater.exe",
       "shortcut-name": "MikiStore",
       "icon": "https://raw.githubusercontent.com/Nikita534cool/ssssssssssssssssssss/refs/heads/main/ssstore-icons/mikigoonstore.png",
       "version": "1.0.0",
@@ -245,7 +245,7 @@
         {
           "version": "1.0.0",
           "download-link": "https://raw.githubusercontent.com/Nikita534cool/ssssssssssssssssssss/refs/heads/main/mikistore/ZZZZZZZZ.zip",
-          "update-log": null
+          "update-log": "i hate this store"
         }
       ],
       "icon-url": null,
